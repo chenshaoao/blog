@@ -1,0 +1,13 @@
+# Site settings
+title: chenshaoao
+email: shaoao.chen@gmail.com
+description: 静、思、动、放
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://chenshaoao.github.io" # the base hostname & protocol for your site
+twitter_username: chenshaoao
+github_username:  chenshaoao
+
+# Build settings
+markdown: kramdown
+
+keep_files: [".git", "CNAME", ".nojekyll"]
